@@ -200,7 +200,8 @@ The user can configure parameters such as:
 
 ### Menu and Password Flow
 
-![Menu and Password System](Images/menu_password_system.png)
+<img width="1536" height="1024" alt="menu_password_system" src="https://github.com/user-attachments/assets/c2c530ea-1c5c-41f7-b0b9-284a82fa8bd9" />
+
 
 ---
 
