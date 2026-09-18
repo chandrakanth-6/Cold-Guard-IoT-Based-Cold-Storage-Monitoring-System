@@ -90,7 +90,8 @@ The complete hardware prototype integrates the LPC2148 controller with the DHT11
 
 ### Complete Hardware Setup
 
-![ColdGuard Hardware Board](Images/hardware_board.jpeg)
+<img width="984" height="898" alt="hardware_board" src="https://github.com/user-attachments/assets/67c89a2e-51c7-4ef8-be1d-e601a4f29d94" />
+
 
 ---
 
