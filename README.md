@@ -79,7 +79,8 @@ The ColdGuard system consists of the LPC2148 microcontroller connected to the se
 
 ### Circuit Block Diagram
 
-![ColdGuard Circuit Block Diagram](Images/circuit_block_diagram(1).png)
+<img width="1536" height="1024" alt="circuit_block_diagram(1)" src="https://github.com/user-attachments/assets/a4d2ae04-473c-42ae-a7ab-7bc102b20cd1" />
+
 
 ---
 
