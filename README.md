@@ -238,7 +238,8 @@ The display can show:
 
 ### LCD Display States
 
-![LCD Display States](Images/lcd_display_states.png)
+<img width="1536" height="1024" alt="lcd_display_states" src="https://github.com/user-attachments/assets/d46daf24-40d8-44ec-b4e3-74e398d8e90c" />
+
 
 ### Actual LCD Display
 
