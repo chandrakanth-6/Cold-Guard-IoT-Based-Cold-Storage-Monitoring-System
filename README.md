@@ -111,7 +111,8 @@ The PLL is configured to generate a **60 MHz CPU clock (CCLK)**. The peripheral 
 
 ### System Clock Configuration Diagram
 
-![System Clock Configuration](Images/system_clock_configuration.png)
+<img width="1536" height="1024" alt="system_clock_configuration" src="https://github.com/user-attachments/assets/624395e4-9ebb-4b46-b0ac-fb88b450d35c" />
+
 
 ---
 
