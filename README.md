@@ -243,7 +243,9 @@ The display can show:
 
 ### Actual LCD Display
 
-![ColdGuard LCD Display](Images/display(1).png)
+
+<img width="2630" height="1600" alt="display(1)" src="https://github.com/user-attachments/assets/d7818da5-7986-46cc-8e33-92ea9f22aa6e" />
+
 
 ---
 
@@ -257,7 +259,9 @@ The system can identify when the door remains open beyond the programmed time an
 
 ### Door Event Protocol
 
-![Door Event Protocol](Images/door_event_protocol.png)
+
+<img width="1672" height="941" alt="door_event_protocol" src="https://github.com/user-attachments/assets/b03ec904-9941-4184-96d9-7cb2d9f5328d" />
+
 
 ---
 
