@@ -189,6 +189,27 @@ The main loop handles sensor readings, LCD updates, threshold checking, door mon
 # 🔐 Menu & Password System
 
 ColdGuard includes a password-protected menu to prevent unauthorized modification of important configuration parameters.
+ 📺 LCD Display
 
+A **16x2 LCD** is used to provide local information to the user.
+
+The display can show:
+
+- Temperature
+- Humidity
+- Temperature setpoint
+- Humidity setpoint
+- Door status
+- Alarm status
+- Configuration messages
+- System status
+
+### LCD Display States
+
+![LCD Display States](Images/lcd_display_states.png)
+
+### Actual LCD Display
+
+![ColdGuard LCD Display](Images/display(1).png)
 The keypad is used to enter the password and navigate through the menu.
 
